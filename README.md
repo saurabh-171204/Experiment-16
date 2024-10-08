@@ -43,6 +43,7 @@ int main()
         cout<<"\n ERROR: Division by "<<num<<endl;
     }
 }
+```
 ![Output_16A](https://github.com/user-attachments/assets/62b6e02d-1714-4f08-a526-c8b5c52e9768)
 
 (B)
